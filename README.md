@@ -2,7 +2,7 @@
 - 👀 I’m interested in DataScience and Machinelearning
 - 🌱 I’m currently pursuing B.Tech
 - 📫 How to reach me chetankoliparthi@gmail.com
-- ⚡ facts : Its not the goodbyes that hurt its the flashbacks that curse
+- ⚡ facts : Its not the goodbyes that hurt its the flashbacks that HURTS
 
 <!---
 Chetankoliparthi/Chetankoliparthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
